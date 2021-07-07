@@ -1,0 +1,18 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[D前记录\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vuepress dev docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "author": "\"charactor\"",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
