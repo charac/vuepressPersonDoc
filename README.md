@@ -1,15 +1,15 @@
 <!--
  * @since: 2021-07-07 16:25:29
  * @LastAuthor: Do not edit
- * @lastTime: 2021-07-07 16:25:36
- * @文件相对于项目的路径: \data-report-webe:\项目开发\web__news\vuepress-starter\README.md
+ * @lastTime: 2021-07-09 10:30:01
+ * @文件相对于项目的路径: \data-report-webe:\项目开发\web__news\vuepressPersonDoc\README.md
  * @Author: ltm@xtoneict.com
  * @message:
 -->
 
 # VuePress 快速上手
 
-### 步骤一：git clone git@mobike.io:zhangyunchen/vuepress-devkit.git
+### 步骤一：git clone git@mobike.io:charactor/vuepressPersonDoc.git
 
 ### 步骤二：运行 npm install
 
